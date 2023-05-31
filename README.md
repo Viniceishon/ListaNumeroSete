@@ -1,0 +1,2 @@
+# ListaNumeroSete
+ListaDeExerciciosNumeroSete
